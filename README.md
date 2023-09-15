@@ -1,7 +1,6 @@
 Description:
-Accepts bmp images and compresses them to cbmp images using huffman encoding. These cbmps contain the 
-  *The compression process additionally turns the image grey
-Additionally accepts those cbmp images and decompresses them.
+Accepts bmp images and compresses them to cbmp images using huffman encoding. The compression process additionally turns the image grey
+Cbmps contain pixel frequency data and the program accepts those cbmps and uses that frequncy data to decompress the images
 
 Usage:
 First run with ./compress lion.bmp to create lion.cbmp, which has image data for a grey version of lion.bmp
