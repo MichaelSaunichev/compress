@@ -1,8 +1,6 @@
 Description:
 
-Accepts bmp images and compresses them to cbmp images using huffman encoding. The compression process additionally turns the images grey
-
-Cbmps contain pixel frequency data and the program accepts those cbmps and uses that frequncy data to decompress the images
+Accepts bmp images and compresses them to cbmp images using huffman encoding. The compression process additionally turns the images grey. Cbmps contain pixel frequency data and the program accepts those cbmps and uses that frequncy data to decompress the images
 
 Usage:
 
